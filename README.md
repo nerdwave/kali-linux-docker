@@ -1,7 +1,11 @@
-# Official Kali Linux Docker
-This Kali Linux Docker image provides a minimal base install of the latest version of the Kali Linux Rolling Distribution.
+# Kali Linux Docker
+===================
+
+A port of the original Kali Linux Docker image.
+
+### Tools
+
+to install some more tools go [here](https://www.kali.org/news/kali-linux-metapackages/)
+
 There are no tools added to this image, so you will need to install them yourself. 
-For details about Kali Linux metapackages, check https://www.kali.org/news/kali-linux-metapackages/
-
-Wed Dec 28 09:42:31 EST 2016
-
+For details about Kali Linux metapackages, check 
